@@ -106,7 +106,8 @@ export default function App() {
         setCarrito(carritoActualizado)
 
         Swal.fire({
-            title: 'Eliminado con Exito',
+            title: 'Eliminado con Exito', 
+            
             text: '',
             icon: 'success',
             confirmButtonText: 'Aceptar'
